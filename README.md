@@ -1,2 +1,2 @@
-# t-sne
+# Amazon fine food reviews
 t-sne applied on amazon fine food reviews applied data reduction and  visualization of top eigen vectors...
